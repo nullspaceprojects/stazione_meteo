@@ -1,0 +1,7 @@
+esp8266: https://www.amazon.it/dp/B01N9RXGHY/ref=twister_B07Z6L9GBD?_encoding=UTF8&th=1
+
+Display nextion: https://it.aliexpress.com/item/4001114424540.html?spm=a2g0o.productlist.0.0.859070d4FcgW9j&algo_pvid=fdde402f-3fcb-4c9c-80ea-6250fdab2a67&algo_exp_id=fdde402f-3fcb-4c9c-80ea-6250fdab2a67-0&pdp_ext_f=%7B%22sku_id%22%3A%2210000014498747103%22%7D&pdp_npi=2%40dis%21EUR%21107.59%21101.14%21%21%2111.49%21%21%402100bddb16670619950373484e62a5%2110000014498747103%21sea&curPageLogUid=XySOT0poTxDe
+
+RTC DS 3231: https://www.amazon.it/AZDelivery-RTC-Arduino-Raspberry-Microcontroller/dp/B01M2B7HQB/ref=sr_1_1_sspa?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=243XNWP6S2XV5&keywords=rtc+ds3231&qid=1667062220&qu=eyJxc2MiOiIzLjEzIiwicXNhIjoiMi41NiIsInFzcCI6IjIuNTQifQ%3D%3D&sprefix=rtc+ds3231%2Caps%2C91&sr=8-1-spons&psc=1
+
+link download codice e file step : https://github.com/nullspaceprojects/stazione_meteo
